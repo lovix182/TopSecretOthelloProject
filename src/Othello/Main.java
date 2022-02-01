@@ -6,7 +6,7 @@ public class Main {
 	justALittleClass lilClass = new justALittleClass(1);
     lilClass.printSomething();
     System.out.println("hej hej mvh Lovisa");
-    System.out.println("hej igen ");
+    System.out.println("hej igen kl 1446");
 
     }
 }
