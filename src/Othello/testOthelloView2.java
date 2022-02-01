@@ -1,9 +1,9 @@
+package Othello;
 import java.awt.*;
-
 import javax.swing.*;
 import java.awt.Color;
 
-public class testOthelloView extends JPanel{
+public class testOthelloView2 extends JPanel{
     public static void main(String[] args) {
     JFrame f = new JFrame("Othello!");
     f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -25,3 +25,6 @@ public class testOthelloView extends JPanel{
 
     
 }
+
+    
+
